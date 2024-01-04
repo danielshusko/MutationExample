@@ -1,5 +1,6 @@
 {
     "stryker-config": {
-        "solution": "MutationExample.sln"
+        "solution": "MutationExample.sln",
+		"reporters": ["html", "cleartext"]
     }
 }
